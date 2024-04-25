@@ -17,7 +17,7 @@ To run this app, you'll need:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/button-press-counter.git
+git clone https://github.com/Shaun-Val/AppECE484.git
 ##
 2. Open the project in Android Studio.
 3. Run the app on your device or emulator.
