@@ -25,3 +25,6 @@ git clone https://github.com/Shaun-Val/AppECE484.git
 ## Usage
 Press the "Press Me" button to increment the press count.
 The current press count will be displayed on the screen.
+
+# Demo 
+https://youtube.com/shorts/LG2iKmXMQAo?si=AcM2lH9ns3ynyB8B
